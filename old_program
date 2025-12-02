@@ -1,3 +1,131 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>GPGPU 2025</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="is-preload">
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Main -->
+		<div id="main">
+			<div class="inner">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="index.html" class="logo"><strong>GPGPU</strong>
+						2025</a>
+					<!-- <ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span
+									class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span
+									class="label">Facebook</span></a></li>
+						<li><a href="#"
+								class="icon brands fa-snapchat-ghost"><span
+									class="label">Snapchat</span></a></li>
+						<li><a href="#" class="icon brands fa-instagram"><span
+									class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-medium-m"><span
+									class="label">Medium</span></a></li>
+					</ul> -->
+				</header>
+
+				<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h1>GPGPU 2025</h1>
+							<p>The 17th Workshop on General Purpose Processing
+								Using GPU (GPGPU 2025)</p>
+							<p>Las Vegas, NV, USA.</p>
+							<p>March 1, 2025. Afternoon, Half Day</p>
+							<p>Zoom Link: <a href="TBD">TBD</a>
+							</p>
+						</header>
+						<p class="rmargin" align="justify">
+							GPUs are delivering more and more computing power required by modern society. With the
+							growing popularity of massively parallel devices, users demand better performance,
+							programmability, reliability, and security. The goal of this workshop is to provide a forum
+							to discuss massively parallel applications, environments, platforms, and architectures, as
+							well as infrastructures that facilitate related research. <br />
+
+							Authors are invited to submit papers of original research in the general area of GPU
+							computing
+							and architectures. Topics include, but are not limited to
+						</p>
+						<ul class="">
+							<li>GPU Architecture and Hardwares</li>
+							<ul class="">
+								<li>Next-generation GPU architectures</li>
+								<li>Energy-efficient GPU designs</li>
+								<li>Scalable multi-GPU systems</li>
+								<li>GPU memory hierarchies and management</li>
+							</ul>
+							<li>Programming Models and Compilers</li>
+							<ul class="">
+								<li>High-level programming abstractions for GPUs</li>
+								<li>Compiler optimizations for GPU codes</li>
+								<li>Source-to-source translations and tools</li>
+								<li>Debugging and profiling tools for GPUs</li>
+							</ul>
+							<li>GPU Algorithms and Data Structures</li>
+							<ul class="">
+								<li>Parallel algorithms tailored for GPUs</li>
+								<li>Data structures optimized for GPU memory hierarchies</li>
+								<li>Algorithmic primitives and building blocks</li>
+							</ul>
+							<li>Performance Optimization Techniques</li>
+							<ul class="">
+								<li>Performance modeling and benchmarking</li>
+								<li>Auto-tuning and performance portability</li>
+								<li>Techniques for reducing communication overheads</li>
+							</ul>
+							<li>GPU Applications</li>
+							<ul class="">
+								<li>Case studies of real-world GPU applications</li>
+								<li>GPU applications in scientific computing, machine learning, large language models,
+									graphics, and emerging field (e.g., quantum, neuromorphic, bioinformatics and
+									genomics)</li>
+								<li>Performance comparisons between GPU and other parallel computing platforms</li>
+							</ul>
+
+							<li>Integration of GPUs with Other Technologies</li>
+							<ul class="">
+								<li>GPU and FPGA co-processing</li>
+								<li>Hybrid systems (e.g., CPU-GPU, GPU-TPU integration)</li>
+								<li>Cloud-based GPU computing</li>
+							</ul>
+							<li>Challenges and Future Trends</li>
+							<ul class="">
+								<li>Reliability and fault tolerance in GPU systems</li>
+								<li>Security and privacy concerns in GPU computing</li>
+								<li>The future of heterogeneity in computing platforms</li>
+								<li>GPU programming and architecture education</li>
+							</ul>
+						</ul>
+					</div>
+					<!-- <span class="image object"> banner image
+						<img src="images/pic10.jpg" alt="" />
+					</span> -->
+				</section>
+
+				<!-- Section -->
+				<section>
+					<header class="major" id="program">
+						<h2>Workshop Program</h2>
+					</header>
+
 					<div>
 						<h3></h3>
 						<table class="tg" style="table-layout: fixed; width: 100%">
@@ -9,33 +137,16 @@
 								<!-- <td class="tg-fymr">07:00 AM - 09:00 AM</td>
 								<td class="tg-0pky">Breakfast</td> -->
 							</tr>
-							<tr style="border-bottom: 1px solid #000;border-top: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">1:40 PM -
-										1:50 PM</span></td>
-								<td class="tg-0pky">
-									Opening Remarks
-									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
-										<div class="collapse-content" style="display:none">
-											<iframe width="560" height="315" src="" title="YouTube video player"
-												frameborder="0"
-												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-												allowfullscreen></iframe>
-										</div>
-									</div>
-								</td>
-							</tr>
+
+
+
+
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-0pky"><span style="font-weight:bold">1:50 PM -
-										2:40 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">13:00 -
+										14:00 </span></td>
 								<td class="tg-0pky"><span style="font-weight:bold">[Keynote]</span>
-									<span style="font-style:italic">Title: Open source GPU Hardware and Software</span>
-									<br>Hyesoon Kim (Georgia Institute of Technology)
+									<span style="font-style:italic"> Keynote is canceled due to unexpected issues and the workshop will begin at 2 PM </span>
+									<br> 
 
 									<a href="#keynote">[Link]</a>
 									<br>
@@ -44,29 +155,12 @@
 											<span class="collapse-arrow">
 												▶
 											</span>
-											Abstract
 										</div>
 										<div class="collapse-content abstract-content" style="display:none">
-											<p>Abstract: Graphics processors or data parallel architectures have become
-												critical computing platforms for today’s workloads, heavily utilized in
-												high-performance computing simulations and the recent explosion of
-												training for large language model (LLM) AI models. Inspired by the
-												open-source hardware community based on the RISC-V ISA, we have been
-												developing a OpenGPU by extending RISC-V ISAs. The OpenGPU aims to
-												provide a full stack of solutions for GPUs, capable of running
-												OpenCL/CUDA workloads as well as 3D graphics pipelines. Additionally, we
-												have developed Cupbop, which enables running CUDA on a broad range of
-												parallel processors including X86, ARM, RISC-V, RISC-V GPU, and AMD
-												GPUs. I will also discuss the future plans for Vortex and Cupbop.</p>
+											<p></p>
 										</div>
 									</div>
 									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
 										<div class="collapse-content" style="display:none">
 											<iframe width="560" height="315" src="" title="YouTube video player"
 												frameborder="0"
@@ -81,22 +175,23 @@
 										style="font-weight:bold">2:40 PM - 3:00 PM</span></td>
 								<td class="tg-0pky">Break</td>
 							</tr> -->
+
 							<tr style="border-bottom: 1px solid #000;">
 								<td></td>
 								<td></td>
 							</tr>
 							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">14:00 -
+										14:30</span></td>
 								<td class="tg-fymr" style="font-weight:bold">
-									Session 1</td>
+									Session 1: GPU Architecture Exploration</td>
 								<td></td>
 							</tr>
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">2:40 PM -
-										3:00 PM</span></td>
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
 								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
-									<span style="font-style:italic">Cache Cohort GPU Scheduling</span><br>Vinay
-									Ramakrishnaiah,
-									Bradford Beckmann, William Ehrett, Rene Van Oostrum and Keith Lowery (AMD)
+									<span style="font-style:italic">Performance Impact and Trade-Offs for Tuning Key Architectural Parameters on CPU+GPU Systems</span><br>
+									Kazi Asifuzzaman (Oak Ridge National Laboratory), Narasinga Rao Miniskar(Oak Ridge National Laboratory), William Godoy(Oak Ridge National Laboratory), Oscar Hernandez (Oak Ridge National Laboratory) and Jeffrey Vetter(Oak Ridge National Laboratory)
 									<br>
 									<div class="abstract collapse">
 										<div class="collapse-opener">
@@ -106,23 +201,7 @@
 											Abstract
 										</div>
 										<div class="collapse-content abstract-content" style="display:none">
-											<p>With the ever-improving computation capability of GPUs, there is an
-												increasing demand for higher memory bandwidth to supply the GPU cores
-												with data. One way to improve effective memory bandwidth is with larger
-												caches, and we have seen GPU vendors recently invest in very large
-												last-level caches (LLCs). The key challenge is to maximize cache
-												utilization and keep the active working set on-chip during the lifetime
-												of a kernel. Software tiling optimizations can help, but programmers
-												alone cannot anticipate dynamic cache capacity contention. To this end,
-												we introduce the concept of cache cohorts: groups of kernels that share
-												the same working set and thus can be efficiently scheduled together. Our
-												approach uses the GPU command processor (CP) to track the occupancy of
-												the LLC and throttles scheduling of the next cohort if there is no room.
-												To evaluate the design space, we modify the existing GPU firmware on the
-												AMD RX 7600 and RX 7900 XTX GPUs to prototype the scheduling scheme
-												using real hardware. Our preliminary results show up to 27% reduction in
-												execution time using the cache optimized scheduling technique on RX 7900
-												XTX.</p>
+											<p>TBD.</p>
 										</div>
 									</div>
 									<div class=" collapse">
@@ -143,12 +222,10 @@
 							</tr>
 
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">3:00 PM - 3:20 PM</span></td>
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
 								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
-									<span style="font-style:italic">GPU-acceleration of neighborhood-based
-										dimensionality reduction algorithm EmbedSOM</span>
-									<br>Adam Šmelko, Martin Kruliš and Jiří Klepl (Charles University Prague,
-									Czechia)<br>
+									<span style="font-style:italic">Exploring the Wafer-Scale GPUs.</span>
+									<br>Daoxuan Xu (William & Mary), Le Xu (Byte Dance Inc.), Jie Ren (William & Mary) and Yifan Sun (William & Mary)<br>
 									<div class="abstract collapse">
 										<div class="collapse-opener">
 											<span class="collapse-arrow">
@@ -157,19 +234,7 @@
 											Abstract
 										</div>
 										<div class="collapse-content abstract-content" style="display:none">
-											<p>Dimensionality reduction methods have found vast applications as
-												visualization tools in diverse areas of science. Although many different
-												methods exist, their performance is often insufficient for providing
-												quick insight into many contemporary datasets. In this paper, we propose
-												a highly optimized GPU implementation of EmbedSOM, a dimensionality
-												reduction algorithm based on self-organizing maps. We detail the
-												optimizations of kNN search and 2D projection kernels which comprise the
-												core of the algorithm. To tackle the thread divergence and low
-												arithmetic intensity, we use a modified bitonic sort for kNN search and
-												a projection kernel that utilizes vector loads and register caches. The
-												evaluated performance benchmarks indicate that the optimized EmbedSOM
-												implementation is capable of projecting over 30 million individual data
-												points per second.</p>
+											<p>TBD</p>
 										</div>
 									</div>
 									<div class=" collapse">
@@ -189,74 +254,21 @@
 								</td>
 							</tr>
 
-
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">3:20 PM - 3:40 PM</span></td>
-								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
-									<span style="font-style:italic">Regular Expressions on Modern GPGPUs</span>
-									<br>Cheng Li and Clark Verbrugge (McGill University)<br>
-
-									<div class="abstract collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Abstract
-										</div>
-										<div class="collapse-content abstract-content" style="display:none">
-											<p>Using GPUs is an effective way to accelerate regular expression (RE)
-												matching, offering orders of magnitude faster processing than pure CPU
-												approaches. Prior GPU-based RE acceleration methods, however, were
-												developed on older GPU models and primarily aimed at expediting network
-												packet inspection problems. In this work we conduct an updated study
-												aiming to improve performance and enhance generality. We first
-												incorporate prefiltering, verifying whether simpler parts of the RE can
-												match before testing more complex RE components. We also observed that
-												naive implementation of current designs on a modern GPU results in low
-												thread occupancy, limiting performance, and improving the selection of
-												GPU parameters is also crucial to optimizing performance. In combination
-												our optimized design allows us to achieve 40x performance improvement
-												over iNFAnt and up to 1900x faster than ASyncAP. Such an updated
-												approach allows for faster, more general RE matching on modern GPUs.</p>
-										</div>
-									</div>
-									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
-										<div class="collapse-content" style="display:none">
-											<iframe width="560" height="315" src="" title="YouTube video player"
-												frameborder="0"
-												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-												allowfullscreen></iframe>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-
-							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">3:40 PM - 4:00 PM</span></td>
-								<td class="tg-0pky">Break</td>
-							</tr>
-							<tr style="border-bottom: 1px solid #000;">
-								<td></td>
-								<td></td>
-							</tr>
-							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">14:30 -
+										15:00 </span></td>
 								<td class="tg-fymr" style="font-weight:bold">
-									Session 2</td>
+									Session 2: GPU Characterization and Modeling</td>
 								<td></td>
 							</tr>
+
+
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">4:00 PM - 4:20 PM</span></td>
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
 								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
-									<span style="font-style:italic">Accelerating Stencil Computations on a GPU by
-										Combining Using Tensor cores and Temporal Blocking</span>
-									<br>Futa Kambe and Toshio Endo (Tokyo Institute of Technology)
+									<span style="font-style:italic">Modeling Utilization to Identify Shared-memory Atomic Bottlenecks.</span>
+									<br>Rongcui Dong (University of Rochester) and Sreepathi Pai (University of Rochester)<br>
+
 									<div class="abstract collapse">
 										<div class="collapse-opener">
 											<span class="collapse-arrow">
@@ -265,22 +277,42 @@
 											Abstract
 										</div>
 										<div class="collapse-content abstract-content" style="display:none">
-											<p>Stencil computations, which approximate differential equations in
-												simulations, are important computations in highperformance computing.
-												One of speed-up techniques is called temporal blocking, which reduces
-												memory access by advancing computations of several time steps locally at
-												a time. In addition, recent GPUs are equipped with units such as Tensor
-												cores that specialize in matrix operations, and there is a research
-												project TCStencil[1], which applies them to stencil computations. In
-												this paper, we integrate these two techniques to accelerate computation
-												speed of stencil computations even further. This integration is not
-												trivial, however, since temporal blocking introduces wider halo regions,
-												while Tensor cores only accelerate computations with restricted tensor
-												sizes, such as 16×16. We describe our proposed method to alleviate
-												performance issues. The evaluation results show that our implementations
-												achieve notably speedup compared to existing versions. Especially, even
-												compared to a version with Tensor cores, our implementation with deeper
-												temporal blocking shows speedup of approximately 1.25 times.</p>
+											<p>TBD</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Uncovering Detailed Power Characterizations of GPUs on Edge Platforms</span>
+									<br>Mujahid Al Rafi (UC Merced), Kevin Chau (UC Merced) and Hyeran Jeon (UC Merced) <br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>TBD</p>
 										</div>
 									</div>
 									<div class=" collapse">
@@ -302,12 +334,31 @@
 							</tr>
 
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">4:20 PM - 4:40 PM</span></td>
+								<td class="tg-fymr"><span style="font-weight:bold">15:00 -
+										15:30 </span></td>
+								<td class="tg-fymr" style="font-weight:bold">
+									Coffee Break</td>
+								<td></td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">15:30 -
+										16:00 </span></td>
+								<td class="tg-fymr" style="font-weight:bold">
+									 Session 3: Tensor Cores and Memory Accelerators</td>
+								<td></td>
+							</tr>
+
+
+
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
 								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
-									<span style="font-style:italic">Exploring Page-based RDMA for Irregular GPU
-										Workloads. A case study on NVMe-backed GNN Execution</span>
-									<br>Benjamin Wagley (Colorado School of Mines), Pak Markthub (NVIDIA), James Crea,
-									Bo Wu and Mehmet Belviranli (Colorado School of Mines)
+									<span style="font-style:italic">Can Tensor Cores Benefit Memory-Bound Kernels? (NO!) </span>
+									<br> Lingqi Zhang (RIKEN Center for Computational Science), Jiajun Huang (UC Riverside), Sheng Di (Argonne National Laboratory), Satoshi Matsuoka (RIKEN Center for Computational Science) and Mohamed Wahib (RIKEN Center for Computational Science)
 									<div class="abstract collapse">
 										<div class="collapse-opener">
 											<span class="collapse-arrow">
@@ -316,16 +367,7 @@
 											Abstract
 										</div>
 										<div class="collapse-content abstract-content" style="display:none">
-											<p>Paged memory systems for GPUs like NVIDIA's Unified Virtual Memory, offer
-												a simple method for programmers to create out-of-core programs on GPUs.
-												In the case of storage backed approaches, these systems can even handle
-												larger than host memory systems as NVMe is used to back GPU memory
-												through RDMA. However, paged memory systems can struggle with irregular
-												access patterns. In this work, we analyze the limitations of paged,
-												RDMA-backed GPU memory for out-of-core, irregular workloads, through a
-												case study of GNN training. We highlight the key limitations of these
-												systems that must be overcome before the true potential of RDMA backed
-												GPU memory can be realized in a paged memory architecture.
+											<p>TBD
 											</p>
 										</div>
 									</div>
@@ -346,48 +388,10 @@
 							</tr>
 
 							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-0pky"><span style="font-weight:bold">4:40 PM - 5:30 PM</span></td>
-								<td class="tg-0pky"><span style="font-weight:bold">[Panel] Panelists:</span>
-									<span style="font-style:italic"></span> <br>
-									Bradford Beckmann - AMD <br>
-									John Kim - KAIST <br>
-									Dong Li - UC Merced <br>
-									Daniel Wong - UC Riverside <br>
-									Yifan Sun - William & Mary <br>
-									Moderator: Seonjin Na - Georgia Institute of Technology
-
-									<div class="abstract collapse">
-										<div class=" collapse">
-											<div class="collapse-opener">
-												<span class="collapse-arrow">
-													▶
-												</span>
-												Recording
-											</div>
-											<div class="collapse-content" style="display:none">
-												<iframe width="560" height="315"
-													src="https://www.youtube.com/embed/BGRZOrT8tAk?si=onavBSSUtMPj2IqD"
-													title="YouTube video player" frameborder="0"
-													allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-													allowfullscreen></iframe>
-											</div>
-
-							</tr>
-
-
-							<!-- <tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span
-										style="font-weight:bold">01:50 PM -
-										02:05 PM</span></td>
-								<td class="tg-0pky"><span
-										style="font-weight:bold">[Work-in-Progress
-										Presentation]</span> <span
-										style="font-style:italic"> PTXVM:
-										Translating PTX to
-										C</span><br>Sreepathi Pai, Benjamin
-									Carleton, Benjamin Valpey, Amr Elhelw
-									(University of Rochester)
-									<br>
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">ACTA: Automatic Configuration of the Tensor Memory Accelerator for High-End GPUs.  </span>
+									<br> Nicolás Meseguer (Universidad de Murcia), Yifan Sun (William & Mary), Michael Pellauer (NVIDIA), José L. Abellán (Universidad de Murcia) and Manuel E. Acacio (Universidad de Murcia)
 									<div class="abstract collapse">
 										<div class="collapse-opener">
 											<span class="collapse-arrow">
@@ -395,207 +399,11 @@
 											</span>
 											Abstract
 										</div>
-										<div class="collapse-content abstract-content"
-											style="display:none">
-											<p>We describe our ongoing effort
-												to translate CUDA PTX kernels
-												to C. Our
-												translator, PTXVM, generates
-												single-threaded C code from
-												existing PTX
-												kernels and does not need an
-												interpreter. PTXVM is
-												distinguished by
-												its expansive and faithful
-												support of NVIDIA's PTX
-												specification. This
-												enables it to run many complex
-												real-life programs such CUB and
-												ModernGPU, libraries such as
-												cuRAND, and also benchmarks
-												such as the
-												IrGL graph algorithms, Rodinia,
-												and PolyBench. In this talk,
-												I'll
-												describe the architecture of
-												PTXVM as well as an example
-												tracing
-												infrastructure we've built on
-												top of it to gather execution
-												statistics. </p>
-										</div>
-									</div>
-									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
-										<div class="collapse-content"
-											style="display:none">
-											<iframe width="560" height="315"
-												src="https://www.youtube.com/embed/aGjZXEEudRE"
-												title="YouTube video player"
-												frameborder="0"
-												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-												allowfullscreen></iframe>
-										</div>
-									</div>
-								</td>
-							</tr>
-							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span
-										style="font-weight:bold">02:05 PM -
-										02:20 PM</span></td>
-								<td class="tg-0pky"><span
-										style="font-weight:bold">[Work-in-Progress
-										Presentation]</span> <span
-										style="font-style:italic">Understanding
-										Wafer-Scale GPU Performance using an
-										Architectural Simulator</span><br>Chris
-									Thames, Yifan Sun (William &amp; Mary)
-									<br>
-									<div class="abstract collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Abstract
-										</div>
-										<div class="collapse-content abstract-content"
-											style="display:none">
-											<p>Wafer-Scale chips have the
-												potential to break the die-size
-												limitation and provide extreme
-												performance scalability.
-												Existing solutions have
-												demonstrated the possibility of
-												integrating multi-CPU and
-												multi-GPU systems at a
-												significantly larger scale on a
-												wafer. This increased
-												capability results in an
-												increase of complexity in
-												managing the memory and
-												computing resources. To
-												facilitate the community study
-												wafer-scale systems, this paper
-												develops an architectural
-												simulator dedicated to model
-												wafer-scale multi-device
-												systems. Also, this work
-												demonstrates analysis of
-												initial results from
-												simulations on wafer-scale GPU
-												systems, providing useful
-												insight that can guide future
-												system design. </p>
-										</div>
-									</div>
-									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
-										<div class="collapse-content"
-											style="display:none">
-											<iframe width="560" height="315"
-												src="https://www.youtube.com/embed/1O7oBIy0GoU"
-												title="YouTube video player"
-												frameborder="0"
-												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-												allowfullscreen></iframe>
-										</div>
-									</div>
-								</td>
-							</tr>
-							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span
-										style="font-weight:bold">02:20 PM -
-										02:35 PM</span></td>
-								<td class="tg-0pky"><span
-										style="font-weight:bold">[Work-in-Progress
-										Presentation]</span> <span
-										style="font-style:italic">ScaleServe: A
-										Scalable Multi-GPU Machine Learning
-										Inference System and Benchmarking
-										Suite</span><br>Ali Jahanshahi, Marcus
-									Chow, Daniel Wong (UC Riverside)
-									<br>
-									<div class="abstract collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Abstract
-										</div>
-										<div class="collapse-content abstract-content"
-											style="display:none">
-											<p>We present, SCALESERVE, a
-												scalable multi-GPU inference
-												system for a variety of machine
-												learning tasks. The proposed
-												suite is unique in that each
-												component of SCALESERVE
-												provides the users with
-												configuration knobs which can
-												be fine-tuned based on the
-												specifications of the
-												deployment platform to achieve
-												the maximum performance for the
-												serving. SCALESERVE also
-												provides detailed performance
-												metrics/statistics from
-												different components of the
-												server which can be used by
-												designers to characterize the
-												bottlenecks of the server.
-												We evaluate SCALESERVE serving
-												scalability with several
-												machine learning tasks
-												including computer vision and
-												natural language processing on
-												an 8-GPU server. We used the
-												provided statistic by
-												SCALESERVE to fine-tune the
-												inference server on our target
-												platform to achieve maximum
-												performance. The performance
-												results for ResNet152 show that
-												SCALESERVE is able to scale
-												well on a multi-GPU platform.
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>TBD
 											</p>
 										</div>
 									</div>
-									<div class=" collapse">
-										<div class="collapse-opener">
-											<span class="collapse-arrow">
-												▶
-											</span>
-											Recording
-										</div>
-										<div class="collapse-content"
-											style="display:none">
-											<iframe width="560" height="315"
-												src="https://www.youtube.com/embed/Aem6TcNZJu8"
-												title="YouTube video player"
-												frameborder="0"
-												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-												allowfullscreen></iframe>
-										</div>
-									</div>
-								</td>
-							</tr> -->
-
-
-
-							<tr style="border-bottom: 1px solid #000;">
-								<td class="tg-fymr"><span style="font-weight:bold">5:30 PM - 5:40 PM</span></td>
-								<td class="tg-0pky">
-									Closing Remarks
 									<div class=" collapse">
 										<div class="collapse-opener">
 											<span class="collapse-arrow">
@@ -609,8 +417,475 @@
 												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 												allowfullscreen></iframe>
 										</div>
+								</td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">16:00 - 16:45 </span></td>
+								<td class="tg-fymr" style="font-weight:bold">
+									Session 4: GPU Applications and Algorithm Optimization</td>
+								<td></td>
+							</tr>
+
+
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Efficient Parallel Implementation of Non-Local Means Algorithm on GPU.  </span>
+									<br>  Xiang Li (Nanjing University), Qiong Chang (Institute of Science Tokyo), Yun Li (Nanjing University) and Jun Miyazaki (Institute of Science Tokyo) <br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>TBD
+											</p>
+										</div>
 									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+								</td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Evaluating Parallel Sliding Window Techniques: Algorithmic and Multi-GPU Advancements with Fast-PII.  </span>
+									<br>Seth Ockerman (University of Wisconsin Madison) and Erin Carrier (Grand Valley State University) <br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>TBD
+											</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+								</td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold"></span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Optimizing Auto-tuning of OpenMP Offload kernels for performance and power. </span>
+									<br>Nafis Mustakin (UC Riverside) and Daniel Wong (UC Riverside)<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>TBD
+											</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+								</td>
+							</tr>
+
+
+
+
+
+						</table>
+					</div>
+
+
+
+
+				
+				</section>
+
+
+				<section id="keynote">
+					<header id="header">
+						<a class="logo"><strong>
+								<font size=6em>Keynote</font>
+							</strong></a>
+					</header>
+				</section>
+
+				<section id="banner">
+					<div class="content">
+							<div style="float: left; margin-right: 10px;"><img
+									src="images/portraits/Celine_headshot.jpg"
+									height="360" /> </div>
+							Speaker: <b>Yingyan (Celine) Lin (Georgia Institute of Technology) </b> <br/>
+							Title:[Canceled] Towards Ubiquitous 3D Intelligence through Cross-Layer Algorithm-Hardware Synergy <br /><br />
+							<p align="justify">Abstract: Real-time 3D intelligence is set to revolutionize a broad array of applications—including robotics, digital twins, and telepresence—yet achieving instant reconstruction and seamless rendering at scale remains a significant challenge. In this talk, I will introduce our recent work on advancing real-time 3D intelligence through cross-layer algorithm-hardware innovations. This collaborative effort showcases how cross-layer synergy—from adaptive algorithms to specialized hardware—can unlock scalable, instantaneous 3D intelligence across a wide range of devices and domains, potentially inspiring further integrated innovations toward ubiquitous 3D intelligence.</p>
+							<p align="justify">Bio: Yingyan (Celine) Lin is an associate professor in the School of Computer Science at the Georgia Institute of Technology, where she also serves as the co-director of the Center for Advancing Responsible Computing (CARE). Her research group focuses on developing efficient machine learning solutions through cross-layer innovations, from AI algorithms and hardware accelerators to AI acceleration chips, aiming to promote green AI and enable ubiquitous AI-powered intelligence. Their research has received various recognitions, including first place at the ACM SIGDA University Demonstration at DAC 2022, first place in the ACM/IEEE TinyML Design Contest at ICCAD 2022, and an IEEE Micro Top Pick of 2023. Additionally, their work has been spotlighted at ICLR in 2020, 2021, and 2025, presented as an oral paper at ECCV 2024, and most recently, received the Best Paper Award at MICRO 2024.</p>
+							<br />
+						</div>
+				</section>
+
+
+				<section>
+					<header class="major" id="importantdates">
+						<h2>Important Dates (Tentative) (11:59 pm, Anywhere on Earth)</h2>
+					</header>
+
+					<ul>
+						<li>
+							Papers due: <s>December 2</s> December 16, 2024
+						</li>
+						<li>Notification: January 20, 2025 </li>
+						<li>Final paper due: February 17, 2025 </li>
+					</ul>
+
+
+				</section>
+
+				<section>
+					<header class="major" id="guidelines">
+						<h2>Submission Guidelines</h2>
+					</header>
+					<p>
+						Full paper submissions must be in PDF format for A4 or US letter-size paper. They must not
+						exceed 6 pages (excluding references) in standard ACM two-column sigplan format (review
+						mode, sigplan template). Authors can select if they want to reveal their identity in the
+						submission.
+						Word and LaTeX atTemplates for ACM format are available for Microsoft Word, and LaTeX at: <a
+							href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a>
+					</p>
+					<!-- 
+						<p>
+							At least one author must present at the workshop
+							conference. Travel func may be applied through
+							SIGPLAN
+							Professional Activities Committee (PAC). Details
+							are
+							available <a
+								href="https://www.sigplan.org/PAC/">here</a>
+						</p> -->
+
+					<p>
+						Submission Site: <a href="https://easychair.org/conferences/?conf=gpgpu2025">GPGPU
+							2025</a>
+					</p>
+
+
+				</section>
+
+				<section>
+					<header class="major" id="organizers">
+						<h2>Workshop Organizers</h2>
+					</header>
+
+					<div class="content">
+						<table style="width:100%">
+							<col style="width:20%">
+							<col style="width:20%">
+							<col style="width:20%">
+							<col style="width:20%">
+							<tr>
+								<!-- <td><img src="images/portraits/jose.png" style="border-radius: 10px;" alt=""
+										data-position="center center" width='200' /></td> -->
+								<td><img src="images/portraits/hyeran.jpg" style="border-radius: 10px;" alt=""
+										data-position="center center" width='200' /></td>
+								<td><img src="images/portraits/yifan.jpg" style="border-radius: 10px;" alt=""
+										data-position="center center" width='200' /></td>
+								<td><img src="images/portraits/daniel.png" style="border-radius: 10px;" alt=""
+										data-position="center center" width='200' /></td>
+							</tr>
+							<tr>
+								<!-- <td><a href="https://www.dcs.gla.ac.uk/~josecr/" target=&ldquo;blank&rdquo;>José Cano
+										</a></td> -->
+								<td><a href="https://www.mocalab.org/hyeran-jeon" target=&ldquo;blank&rdquo;>Hyeran
+										Jeon</a></td>
+								<td><a href="https://syifan.github.io/" target=&ldquo;blank&rdquo;>Yifan
+										Sun</a></td>
+								<td><a href="https://www.danielwong.org/" target=&ldquo;blank&rdquo;>Daniel
+										Wong</a></td>
+							</tr>
+							<tr>
+								<td>Co-chair</td>
+								<td>Co-chair</td>
+								<td>Co-chair</td>
+							</tr>
+							<tr>
+								<!-- <td>University of Glasgow</td> -->
+								<td>UC Merced</td>
+								<td>William &amp; Mary</td>
+								<td>UC Riverside</td>
+							</tr>
+							<tr>
+								<!-- <td>
+									José Cano is an Associate Professor in the School of Computer Science at the University of Glasgow, where he heads the Glasgow Intelligent Computing Laboratory (gicLAB) and is also Deputy Lead of the Systems Research Section. His research interests are in the broad areas of Computer Architecture, Computer Systems, Compilers, Machine Learning and Security. He is a senior member of IEEE and ACM.
+								</td> -->
+								<td>Hyeran Jeon is an Associate Professor in the Department of Computer Science and
+									Engineering
+									at the University of California, Merced. She received her PhD at the University of
+									Southern
+									California. Her research interests lie in energy-efficient, reliable, and secure GPU
+									architectures. She received NSF CAREER award in 2024.</td>
+								<td>
+									Yifan Sun is an Assistant Professor in the Department of Computer Science at William
+									& Mary
+									since Fall 2020. He received his Ph.D. degree from the Department of Electrical and
+									Computer
+									Engineering at Northeastern University in 2020. His research interests lie in GPU
+									architecture,
+									performance evaluation, and performance modeling.
+								</td>
+								<td>
+									Daniel Wong is an Associate Professor in the Department of Electrical and Computer
+									Engineering at the University of California, Riverside. He received his PhD in
+									Electrical
+									Engineering at the University of Southern California (USC). His research spans GPU
+									Architecture, High Performance Computing, and Warehouse-scale Computing. His current
+									research focuses on energy efficient and high performance computing systems from
+									datacenter
+									scale to micro-architectures. His research work has been recognized with an IEEE
+									MICRO Top
+									Picks in 2012 and an NSF CAREER award in 2020.
 								</td>
 							</tr>
 						</table>
+
+						<div class="content">
+							<table style="width:100%">
+								<col style="width:20%">
+								<col style="width:20%">
+								<tr>
+									<td><img src="images/portraits/nafis.jpeg" style="border-radius: 10px;" alt=""
+											data-position="center center" width='200' /></td>
+									<td><img src="images/portraits/yuan-headshot.jpg" style="border-radius: 10px;"
+											alt="" data-position="center center" width='200' />
+									</td>
+								<tr>
+									<td><a href="index.html" target=&ldquo;blank&rdquo;>Nafis Mustakin</a></td>
+									<td><a href="https://yfeng-44.github.io/" target=&ldquo;blank&rdquo;>Yuan Feng</a>
+									</td>
+								</tr>
+								<tr>
+									<td>Publication Chair</td>
+									<td>Web Chair</td>
+								</tr>
+								<tr>
+									<td>UC Riverside</td>
+									<td>UC Merced</td>
+								</tr>
+							</table>
+							Please contact the organizers if you have any
+							questions.
+						</div>
+
+
+				</section>
+
+				<section>
+					<header class="major" id="pcmember">
+						<h2>Program Committee</h2>
+					</header>
+					<ul>
+							<li>Dongho Ha (MangoBoost Inc.)</li>
+							<li>Hongyuan Liu (The Hong Kong University of Science and Technology)</li>
+							<li>Seonjin Na (Georgia Institute of Technology)</li>
+							<li>Harisankar Sadasivan (AMD)</li>
+							<li>Devashree Tripathy (IIT Bhubaneswar)</li>
+							<li>Jinyang Liu (University of Houston)</li>
+							<li>Yujia Zhai (NVIDIA)</li>
+							<li>Jie Ren (William & Mary)</li>
+						</ul>
+				</section>
+
+
+				<section>
+					<header class="major" id="hist">
+						<h2>History and Impact</h2>
+					</header>
+
+					<div class="content">
+						<div>
+							David Kaeli (Northeastern) and John Cavazos
+							(Delaware) started this GPGPU workshop series,
+							which was first held in 2007 at Northeastern
+							University. In 2008, the workshop was held with
+							ASPLOS 2008. This trend continued and this
+							GPGPU
+							workshop was held with ASPLOS for the next
+							6 years. From 2015 to 2018, the GPGPU workshop
+							was
+							co-located with PPoPP.
+
+							In 2019 and 2020, the GPGPU workshop is
+							co-hosted
+							by Adwait Jog (William & Mary), Onur Kayiran
+							(AMD),
+							and Ashutosh Pattnaik (ARM).
+
+
+							The average
+							citation count (as per Google Scholar), for a
+							GPGPU
+							workshop paper is currently 37.5, where
+							there have been 8 influential papers with 100+
+							citations.
+						</div>
+						<br />
+						<h2>Previous versions of the GPGPU workshop:</h2>
+						<ul>
+							<li><a href="https://mocalabucm.github.io/gpgpu2024/" target=&ldquo;blank&rdquo;>GPGPU
+									16 (2024)</a> <a href="https://dl.acm.org/doi/proceedings/10.1145/3649411"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://mocalabucm.github.io/gpgpu2023/" target=&ldquo;blank&rdquo;>GPGPU
+									15 (2023)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2023.html"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://sarchlab.github.io/gpgpu2022/" target=&ldquo;blank&rdquo;>GPGPU
+									14 (2022)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2022.html"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://insight-archlab.github.io/gpgpu.html" target=&ldquo;blank&rdquo;>GPGPU
+									13 (2020)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2020.html"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://insight-archlab.github.io/gpgpu12.html"
+									target=&ldquo;blank&rdquo;>GPGPU 12
+									(2019)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2019.html"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://gpgpu11.000webhostapp.com/" target=&ldquo;blank&rdquo;>GPGPU 11
+									(2018)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2018"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="http://gpgpu10.athoura.com/" target=&ldquo;blank&rdquo;>GPGPU 10
+									(2017)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2017"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers"
+									target=&ldquo;blank&rdquo;>GPGPU 09
+									(2016)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2016"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/"
+									target=&ldquo;blank&rdquo;>GPGPU 08
+									(2015)</a> <a href="https://dblp.org/db/conf/ppopp/gpgpu2015"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU6/"
+									target=&ldquo;blank&rdquo;>GPGPU 07
+									(2014)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2014"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU6/"
+									target=&ldquo;blank&rdquo;>GPGPU 06
+									(2013)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2013"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://dblp.org/db/conf/asplos/gpgpu2012" target=&ldquo;blank&rdquo;>GPGPU 05
+									(2012)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2012"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://dblp.org/db/conf/asplos/gpgpu2011" target=&ldquo;blank&rdquo;>GPGPU 04
+									(2011)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2011"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://dblp.org/db/conf/asplos/gpgpu2010" target=&ldquo;blank&rdquo;>GPGPU 03
+									(2010)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2010"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li><a href="https://dblp.org/db/conf/asplos/gpgpu2009" target=&ldquo;blank&rdquo;>GPGPU 02
+									(2009)</a> <a href="https://dblp.org/db/conf/asplos/gpgpu2009"
+									target=&ldquo;blank&rdquo;>DBLP</a>
+							</li>
+							<li>GPGPU 01 (2008)
+							</li>
+						</ul>
 					</div>
+				</section>
+
+
+
+			</div>
+		</div>
+
+		<!-- Sidebar -->
+		<div id="sidebar">
+			<div class="inner">
+
+				<!-- Menu -->
+				<nav id="menu">
+					<!-- <header class="major">
+						<h2>MENU</h2>
+					</header> -->
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="#program">Program</a></li>
+						<li><a href="#keynote">Keynotes</a></li>
+						<li><a href="#panels">Panels</a></li>
+						<li><a href="#importantdates">Important Dates</a></li>
+						<li><a href="#guidelines">Submission Guidelines</a>
+						</li>
+						<li><a href="#organizers">Workshop Organizers</a></li>
+						<li><a href="#pcmember">Program Committee</a></li>
+						<li><a href="#">Proceedings</a></li>
+						<li><a href="#hist">History and Impact</a></li>
+
+					</ul>
+				</nav>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
