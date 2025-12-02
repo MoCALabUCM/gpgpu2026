@@ -1,0 +1,616 @@
+					<div>
+						<h3></h3>
+						<table class="tg" style="table-layout: fixed; width: 100%">
+							<colgroup>
+								<col style="width: 160px">
+								<col style="width: 730px">
+							</colgroup>
+							<tr style="border-bottom: 1px solid #000;border-top: 1px solid #000;">
+								<!-- <td class="tg-fymr">07:00 AM - 09:00 AM</td>
+								<td class="tg-0pky">Breakfast</td> -->
+							</tr>
+							<tr style="border-bottom: 1px solid #000;border-top: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">1:40 PM -
+										1:50 PM</span></td>
+								<td class="tg-0pky">
+									Opening Remarks
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-0pky"><span style="font-weight:bold">1:50 PM -
+										2:40 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Keynote]</span>
+									<span style="font-style:italic">Title: Open source GPU Hardware and Software</span>
+									<br>Hyesoon Kim (Georgia Institute of Technology)
+
+									<a href="#keynote">[Link]</a>
+									<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>Abstract: Graphics processors or data parallel architectures have become
+												critical computing platforms for today’s workloads, heavily utilized in
+												high-performance computing simulations and the recent explosion of
+												training for large language model (LLM) AI models. Inspired by the
+												open-source hardware community based on the RISC-V ISA, we have been
+												developing a OpenGPU by extending RISC-V ISAs. The OpenGPU aims to
+												provide a full stack of solutions for GPUs, capable of running
+												OpenCL/CUDA workloads as well as 3D graphics pipelines. Additionally, we
+												have developed Cupbop, which enables running CUDA on a broad range of
+												parallel processors including X86, ARM, RISC-V, RISC-V GPU, and AMD
+												GPUs. I will also discuss the future plans for Vortex and Cupbop.</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<!-- <tr style="border-bottom: 1px solid #000;">
+								<td class="tg-0pky"><span
+										style="font-weight:bold">2:40 PM - 3:00 PM</span></td>
+								<td class="tg-0pky">Break</td>
+							</tr> -->
+							<tr style="border-bottom: 1px solid #000;">
+								<td></td>
+								<td></td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr" style="font-weight:bold">
+									Session 1</td>
+								<td></td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">2:40 PM -
+										3:00 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Cache Cohort GPU Scheduling</span><br>Vinay
+									Ramakrishnaiah,
+									Bradford Beckmann, William Ehrett, Rene Van Oostrum and Keith Lowery (AMD)
+									<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>With the ever-improving computation capability of GPUs, there is an
+												increasing demand for higher memory bandwidth to supply the GPU cores
+												with data. One way to improve effective memory bandwidth is with larger
+												caches, and we have seen GPU vendors recently invest in very large
+												last-level caches (LLCs). The key challenge is to maximize cache
+												utilization and keep the active working set on-chip during the lifetime
+												of a kernel. Software tiling optimizations can help, but programmers
+												alone cannot anticipate dynamic cache capacity contention. To this end,
+												we introduce the concept of cache cohorts: groups of kernels that share
+												the same working set and thus can be efficiently scheduled together. Our
+												approach uses the GPU command processor (CP) to track the occupancy of
+												the LLC and throttles scheduling of the next cohort if there is no room.
+												To evaluate the design space, we modify the existing GPU firmware on the
+												AMD RX 7600 and RX 7900 XTX GPUs to prototype the scheduling scheme
+												using real hardware. Our preliminary results show up to 27% reduction in
+												execution time using the cache optimized scheduling technique on RX 7900
+												XTX.</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">3:00 PM - 3:20 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">GPU-acceleration of neighborhood-based
+										dimensionality reduction algorithm EmbedSOM</span>
+									<br>Adam Šmelko, Martin Kruliš and Jiří Klepl (Charles University Prague,
+									Czechia)<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>Dimensionality reduction methods have found vast applications as
+												visualization tools in diverse areas of science. Although many different
+												methods exist, their performance is often insufficient for providing
+												quick insight into many contemporary datasets. In this paper, we propose
+												a highly optimized GPU implementation of EmbedSOM, a dimensionality
+												reduction algorithm based on self-organizing maps. We detail the
+												optimizations of kNN search and 2D projection kernels which comprise the
+												core of the algorithm. To tackle the thread divergence and low
+												arithmetic intensity, we use a modified bitonic sort for kNN search and
+												a projection kernel that utilizes vector loads and register caches. The
+												evaluated performance benchmarks indicate that the optimized EmbedSOM
+												implementation is capable of projecting over 30 million individual data
+												points per second.</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">3:20 PM - 3:40 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Regular Expressions on Modern GPGPUs</span>
+									<br>Cheng Li and Clark Verbrugge (McGill University)<br>
+
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>Using GPUs is an effective way to accelerate regular expression (RE)
+												matching, offering orders of magnitude faster processing than pure CPU
+												approaches. Prior GPU-based RE acceleration methods, however, were
+												developed on older GPU models and primarily aimed at expediting network
+												packet inspection problems. In this work we conduct an updated study
+												aiming to improve performance and enhance generality. We first
+												incorporate prefiltering, verifying whether simpler parts of the RE can
+												match before testing more complex RE components. We also observed that
+												naive implementation of current designs on a modern GPU results in low
+												thread occupancy, limiting performance, and improving the selection of
+												GPU parameters is also crucial to optimizing performance. In combination
+												our optimized design allows us to achieve 40x performance improvement
+												over iNFAnt and up to 1900x faster than ASyncAP. Such an updated
+												approach allows for faster, more general RE matching on modern GPUs.</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">3:40 PM - 4:00 PM</span></td>
+								<td class="tg-0pky">Break</td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td></td>
+								<td></td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr" style="font-weight:bold">
+									Session 2</td>
+								<td></td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">4:00 PM - 4:20 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Accelerating Stencil Computations on a GPU by
+										Combining Using Tensor cores and Temporal Blocking</span>
+									<br>Futa Kambe and Toshio Endo (Tokyo Institute of Technology)
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>Stencil computations, which approximate differential equations in
+												simulations, are important computations in highperformance computing.
+												One of speed-up techniques is called temporal blocking, which reduces
+												memory access by advancing computations of several time steps locally at
+												a time. In addition, recent GPUs are equipped with units such as Tensor
+												cores that specialize in matrix operations, and there is a research
+												project TCStencil[1], which applies them to stencil computations. In
+												this paper, we integrate these two techniques to accelerate computation
+												speed of stencil computations even further. This integration is not
+												trivial, however, since temporal blocking introduces wider halo regions,
+												while Tensor cores only accelerate computations with restricted tensor
+												sizes, such as 16×16. We describe our proposed method to alleviate
+												performance issues. The evaluation results show that our implementations
+												achieve notably speedup compared to existing versions. Especially, even
+												compared to a version with Tensor cores, our implementation with deeper
+												temporal blocking shows speedup of approximately 1.25 times.</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+
+							</tr>
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">4:20 PM - 4:40 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Paper]</span>
+									<span style="font-style:italic">Exploring Page-based RDMA for Irregular GPU
+										Workloads. A case study on NVMe-backed GNN Execution</span>
+									<br>Benjamin Wagley (Colorado School of Mines), Pak Markthub (NVIDIA), James Crea,
+									Bo Wu and Mehmet Belviranli (Colorado School of Mines)
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content" style="display:none">
+											<p>Paged memory systems for GPUs like NVIDIA's Unified Virtual Memory, offer
+												a simple method for programmers to create out-of-core programs on GPUs.
+												In the case of storage backed approaches, these systems can even handle
+												larger than host memory systems as NVMe is used to back GPU memory
+												through RDMA. However, paged memory systems can struggle with irregular
+												access patterns. In this work, we analyze the limitations of paged,
+												RDMA-backed GPU memory for out-of-core, irregular workloads, through a
+												case study of GNN training. We highlight the key limitations of these
+												systems that must be overcome before the true potential of RDMA backed
+												GPU memory can be realized in a paged memory architecture.
+											</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+								</td>
+							</tr>
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-0pky"><span style="font-weight:bold">4:40 PM - 5:30 PM</span></td>
+								<td class="tg-0pky"><span style="font-weight:bold">[Panel] Panelists:</span>
+									<span style="font-style:italic"></span> <br>
+									Bradford Beckmann - AMD <br>
+									John Kim - KAIST <br>
+									Dong Li - UC Merced <br>
+									Daniel Wong - UC Riverside <br>
+									Yifan Sun - William & Mary <br>
+									Moderator: Seonjin Na - Georgia Institute of Technology
+
+									<div class="abstract collapse">
+										<div class=" collapse">
+											<div class="collapse-opener">
+												<span class="collapse-arrow">
+													▶
+												</span>
+												Recording
+											</div>
+											<div class="collapse-content" style="display:none">
+												<iframe width="560" height="315"
+													src="https://www.youtube.com/embed/BGRZOrT8tAk?si=onavBSSUtMPj2IqD"
+													title="YouTube video player" frameborder="0"
+													allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+													allowfullscreen></iframe>
+											</div>
+
+							</tr>
+
+
+							<!-- <tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span
+										style="font-weight:bold">01:50 PM -
+										02:05 PM</span></td>
+								<td class="tg-0pky"><span
+										style="font-weight:bold">[Work-in-Progress
+										Presentation]</span> <span
+										style="font-style:italic"> PTXVM:
+										Translating PTX to
+										C</span><br>Sreepathi Pai, Benjamin
+									Carleton, Benjamin Valpey, Amr Elhelw
+									(University of Rochester)
+									<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content"
+											style="display:none">
+											<p>We describe our ongoing effort
+												to translate CUDA PTX kernels
+												to C. Our
+												translator, PTXVM, generates
+												single-threaded C code from
+												existing PTX
+												kernels and does not need an
+												interpreter. PTXVM is
+												distinguished by
+												its expansive and faithful
+												support of NVIDIA's PTX
+												specification. This
+												enables it to run many complex
+												real-life programs such CUB and
+												ModernGPU, libraries such as
+												cuRAND, and also benchmarks
+												such as the
+												IrGL graph algorithms, Rodinia,
+												and PolyBench. In this talk,
+												I'll
+												describe the architecture of
+												PTXVM as well as an example
+												tracing
+												infrastructure we've built on
+												top of it to gather execution
+												statistics. </p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content"
+											style="display:none">
+											<iframe width="560" height="315"
+												src="https://www.youtube.com/embed/aGjZXEEudRE"
+												title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span
+										style="font-weight:bold">02:05 PM -
+										02:20 PM</span></td>
+								<td class="tg-0pky"><span
+										style="font-weight:bold">[Work-in-Progress
+										Presentation]</span> <span
+										style="font-style:italic">Understanding
+										Wafer-Scale GPU Performance using an
+										Architectural Simulator</span><br>Chris
+									Thames, Yifan Sun (William &amp; Mary)
+									<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content"
+											style="display:none">
+											<p>Wafer-Scale chips have the
+												potential to break the die-size
+												limitation and provide extreme
+												performance scalability.
+												Existing solutions have
+												demonstrated the possibility of
+												integrating multi-CPU and
+												multi-GPU systems at a
+												significantly larger scale on a
+												wafer. This increased
+												capability results in an
+												increase of complexity in
+												managing the memory and
+												computing resources. To
+												facilitate the community study
+												wafer-scale systems, this paper
+												develops an architectural
+												simulator dedicated to model
+												wafer-scale multi-device
+												systems. Also, this work
+												demonstrates analysis of
+												initial results from
+												simulations on wafer-scale GPU
+												systems, providing useful
+												insight that can guide future
+												system design. </p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content"
+											style="display:none">
+											<iframe width="560" height="315"
+												src="https://www.youtube.com/embed/1O7oBIy0GoU"
+												title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span
+										style="font-weight:bold">02:20 PM -
+										02:35 PM</span></td>
+								<td class="tg-0pky"><span
+										style="font-weight:bold">[Work-in-Progress
+										Presentation]</span> <span
+										style="font-style:italic">ScaleServe: A
+										Scalable Multi-GPU Machine Learning
+										Inference System and Benchmarking
+										Suite</span><br>Ali Jahanshahi, Marcus
+									Chow, Daniel Wong (UC Riverside)
+									<br>
+									<div class="abstract collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Abstract
+										</div>
+										<div class="collapse-content abstract-content"
+											style="display:none">
+											<p>We present, SCALESERVE, a
+												scalable multi-GPU inference
+												system for a variety of machine
+												learning tasks. The proposed
+												suite is unique in that each
+												component of SCALESERVE
+												provides the users with
+												configuration knobs which can
+												be fine-tuned based on the
+												specifications of the
+												deployment platform to achieve
+												the maximum performance for the
+												serving. SCALESERVE also
+												provides detailed performance
+												metrics/statistics from
+												different components of the
+												server which can be used by
+												designers to characterize the
+												bottlenecks of the server.
+												We evaluate SCALESERVE serving
+												scalability with several
+												machine learning tasks
+												including computer vision and
+												natural language processing on
+												an 8-GPU server. We used the
+												provided statistic by
+												SCALESERVE to fine-tune the
+												inference server on our target
+												platform to achieve maximum
+												performance. The performance
+												results for ResNet152 show that
+												SCALESERVE is able to scale
+												well on a multi-GPU platform.
+											</p>
+										</div>
+									</div>
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content"
+											style="display:none">
+											<iframe width="560" height="315"
+												src="https://www.youtube.com/embed/Aem6TcNZJu8"
+												title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr> -->
+
+
+
+							<tr style="border-bottom: 1px solid #000;">
+								<td class="tg-fymr"><span style="font-weight:bold">5:30 PM - 5:40 PM</span></td>
+								<td class="tg-0pky">
+									Closing Remarks
+									<div class=" collapse">
+										<div class="collapse-opener">
+											<span class="collapse-arrow">
+												▶
+											</span>
+											Recording
+										</div>
+										<div class="collapse-content" style="display:none">
+											<iframe width="560" height="315" src="" title="YouTube video player"
+												frameborder="0"
+												allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+												allowfullscreen></iframe>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</div>
